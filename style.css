@@ -1,0 +1,22 @@
+.h1-upp{
+    margin-left:45% ;
+    color: rgb(42, 153, 197)
+}
+
+.part-1,.part-2,.part-3,.part-4,.part-5{
+    color: rgb(90, 57, 57);
+    margin-left: 10px;
+    font-size: 19px;
+}
+
+.component-1,.component-2,.component-3,.component-4,.component-5{
+    color: rgb(90, 57, 57);
+    margin-left: 10px;
+}
+.cardd{
+    background-color: blue;
+    border: none;
+}
+.hr-com{
+    background-color: white;
+}
